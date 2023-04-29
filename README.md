@@ -9,7 +9,7 @@
 Resource | Type | Done
 -------- | ---- | ---
 [AWS Pricing](https://aws.amazon.com/pricing/) | ![Webpage](https://img.shields.io/badge/-Webpage-%23fbca04?style=plastic)  |   :white_check_mark:
-[How AWS Pricing Works](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf) | ![Whitepaper](https://img.shields.io/badge/-Whitepaper-%23ffffff?style=plastic) |
+[How AWS Pricing Works](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf) | ![Whitepaper](https://img.shields.io/badge/-Whitepaper-%23ffffff?style=plastic) |  :white_check_mark:
 [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) | ![Webpage](https://img.shields.io/badge/-Webpage-%23fbca04?style=plastic) |
 [AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) | ![Whitepaper](https://img.shields.io/badge/-Whitepaper-%23ffffff?style=plastic) |
 [Introduction to AWS Billing and Cost Management](https://www.aws.training/Details/Video?id=15875) | ![Digital Training](https://img.shields.io/badge/-Digital%20Training-%230075ca?style=plastic)  |
